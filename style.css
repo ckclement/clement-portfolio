@@ -1,0 +1,56 @@
+img {
+    border-radius: 0.1em;
+}
+
+nav {
+    background-color: #d4f881;
+    color: #6a6565;
+    padding: 5px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-size: 0.9em;
+    line-height: 1.6;
+    margin-left: 50px;
+}
+
+h1, h2, h3 {
+    color: #333;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+aboutme {
+    background-color: #f3e6d1;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-left: 50px;
+    padding: 5px;
+}
+
+hero {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    font-size: 2.2em;
+    letter-spacing: 0.2em;
+    line-height: 0.4;
+
+}
+
+about-me {
+    background-color: #f3e6d1;
+    padding: 20px;
+    margin: 20px 0;
+}
